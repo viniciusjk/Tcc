@@ -1,0 +1,8 @@
+Tamanho amostra,Heuristica,Tempo,Fáctivel,Resultado
+3000,Solver method,1434.865530887334,True,25405.27
+3000,Next Product2Buy,0.3372773952371517,False,26420.87
+3000,Next Product Improved V2.1,37.233346899123035,True,24143.46
+3500,Solver method,1944.8101804140629,True,21775.92
+3500,Next Product2Buy,0.5776015136793831,False,37806.88
+3500,Next Product Improved V2.1,49.15329533818203,True,21449.54
+--------,--------,0:57:47.431521,--------,--------
